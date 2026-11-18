@@ -1,0 +1,5 @@
+com\batallanaval\controller\CameraControllerTest.class
+com\batallanaval\model\BoardTest.class
+com\batallanaval\model\EnemyAITest.class
+com\batallanaval\model\GameSaveManagerTest.class
+com\batallanaval\model\PhraseBankTest.class
